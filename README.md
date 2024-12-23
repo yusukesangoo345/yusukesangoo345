@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusukesangoo345
 - 👀 I’m interested in ...Lua
-- 🌱 I’m currently learning ...Lua
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Nothing in particular
 - 📫 How to reach me ...okadayusuke.info@gmail.com
 - 😄 Pronouns: ...They/???
